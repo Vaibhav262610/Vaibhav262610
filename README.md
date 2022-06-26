@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Welcome to Vaibhav Rajpoot's profile!</b>
+  Hi there, I'm <b> Vaibhav Rajpoot</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -9,19 +9,18 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;"></a>
+</p>
+
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
-  <li></li>
   <li>I am a Front-end Developer 🖥️</li>
-  <li>🌱 I’m currently learning everything</li>
+  <li>🌱 I’m currently learning Back-end</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
   <li>Check out my website: https://vaibhavrajpoot.netlify.app </li>
 </ul>
 
-<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
-
-| <img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulrajpoot262610" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
@@ -44,5 +43,5 @@
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
 
 <a href="mailto:vaibhavrajpoot2626@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vaibhavrajpoot/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://vaibhavrajpoot.netlify.app/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
