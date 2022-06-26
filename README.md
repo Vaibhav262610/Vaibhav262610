@@ -4,7 +4,7 @@
 </h1>
 
 <p align="right">
-<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
+<a href="https://wakatime.com/badge/user/e7caf7d2-4af3-48ea-94f0-0c006fd14f3f.svg">
   <img src="https://wakatime.com/badge/user/e7caf7d2-4af3-48ea-94f0-0c006fd14f3f.svg" alt="Total time coded since 1 Jan 2022" />
 </a>
 </p>
