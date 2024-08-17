@@ -17,7 +17,7 @@
 <ul>
   <li>I am a Front-end Developer 🖥️</li>
   <li>🌱 I’m currently learning Back-end</li>
-  <li><b>Marital status:</b> Married with Next.js 💖</li>
+  <li><b>Marital status:</b> Married with Javascript 💖</li>
   <li>Check out my website: https://vaibhavrajpoot.vercel.app </li>
 </ul>
 
