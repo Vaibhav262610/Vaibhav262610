@@ -15,8 +15,8 @@
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
-  <li>I am a Front-end Developer 🖥️</li>
-  <li>🌱 I’m currently learning Back-end</li>
+  <li>I am a MERN Stack Developer 🖥️</li>
+  <li>🌱 I’m Currently learning Back-end</li>
   <li><b>Marital status:</b> Married with Javascript 💖</li>
   <li>Check out my website: https://vaibhavrajpoot.vercel.app </li>
 </ul>
@@ -30,6 +30,7 @@
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+  <a href="#"><img alt="Typescript" src="[https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://blog.wajeshubham.in/introduction-to-typescript)"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
