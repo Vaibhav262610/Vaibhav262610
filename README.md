@@ -29,6 +29,8 @@ I am a MERN Stack Developer 🖥️<br>🌱 I’m Currently learning Back-end<br
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav262610&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav262610&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vaibhav262610&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vaibhav262610&limit=5&theme=dark&combine_all_yearly_contributions=true)
