@@ -7,7 +7,7 @@
 <a href="https://wakatime.com/@e7caf7d2-4af3-48ea-94f0-0c006fd14f3f">
   <img src="https://wakatime.com/badge/user/e7caf7d2-4af3-48ea-94f0-0c006fd14f3f.svg" alt="Total time coded since Jan 23 2022" />
 </a>
-  [![](https://visitcount.itsvg.in/api?id=Vaibhav262610&icon=3&color=1)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=Vaibhav262610&icon=3&color=1)](https://visitcount.itsvg.in"  alt="Profile visits/>
 
 </p>
 
@@ -34,7 +34,3 @@ I am a MERN Stack Developer 🖥️<br>🌱 I’m Currently learning Back-end<br
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vaibhav262610&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
