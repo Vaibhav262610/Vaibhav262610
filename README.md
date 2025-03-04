@@ -17,7 +17,7 @@
 </p>
 
 # 💫 About Me:
-I am a MERN Stack Developer 🖥️<br>🌱 I’m Currently learning Back-end<br>Marital status: Married with Javascript 💖<br>Check out my website: https://vaibhavrajpoot.vercel.app
+I am a Full Stack Developer 🖥️<br>🌱 I’m Currently learning AI/ML<br>Marital status: Married with Javascript 💖<br>Check out my website: https://vaibhavrajpoot.vercel.app
 
 
 ## 🌐 Socials:
