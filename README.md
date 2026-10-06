@@ -4,11 +4,11 @@
 <p align="center"><b>Full Stack Developer · Agentic AI · Language Models</b></p>
 
 <p align="center">
-  <a href="https://vaibhavrajpoot.me">Website</a> ·
-  <a href="https://linkedin.com/in/vaibhavrajpoot">LinkedIn</a> ·
-  <a href="https://instagram.com/vaibhavrajpoott">Instagram</a> ·
-  <a href="https://wakatime.com/@e7caf7d2-4af3-48ea-94f0-0c006fd14f3f">Code time</a> ·
-  <a href="https://github.com/Vaibhav262610?tab=repositories">Repositories</a>
+  <a href="https://vaibhavrajpoot.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/vaibhavrajpoot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/vaibhavrajpoott"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wakatime.com/@e7caf7d2-4af3-48ea-94f0-0c006fd14f3f"><img src="https://img.shields.io/badge/Code%20Time-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white" alt="Code time"></a>
+  <a href="https://github.com/Vaibhav262610?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 ---
@@ -39,15 +39,13 @@ When I'm not building, I'm probably in a Valorant ranked match pretending my aim
 
 **Current loop:** learn → experiment → build → evaluate → repeat.
 
-### Featured work
-
-> Swap these in with your real projects — name, one-line pitch, and a link.
+### 🚀 Featured work
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Project name](#)** | One line on the problem it solves and why it's interesting. | `Next.js` · `Node.js` · `MongoDB` |
-| **[Project name](#)** | One line on the problem it solves and why it's interesting. | `Python` · `LLM` · `Vector DB` |
-| **[Project name](#)** | One line on the problem it solves and why it's interesting. | `React` · `Express` · `AWS` |
+| **[Concord](https://github.com/Vaibhav262610/concord)** | Cross-agent arbitration layer that manages customer contact frequency, conflicting offers, opt-outs, and unified audit trails across merchant AI agents. | `Next.js` · `Node.js` · `PostgreSQL` · `Redis` |
+| **[Vortix](https://github.com/Vaibhav262610/vortix)** | Desktop AI automation agent that turns plain-English commands into system actions and workflows. | `Node.js` · `NLP` · `Blender API` |
+| **[LifeLane](https://github.com/Vaibhav262610/lifelane)** | Smart traffic system designed to help emergency vehicles get faster routes through intelligent traffic coordination. | `Node.js` · `GPS APIs` · `Unreal Engine` |
 
 ### The toolkit
 
